@@ -31,7 +31,9 @@ For each stages you can set
 * typeIIR (see above)
 
 -----------------------------------------------------------------------
-Simple EQ folders contains programs to for sample per sample processing
+Simple EQ folder (program without CMSIS-DSP)
+-----------------------------------------------------------------------
+It contains programs to process EQ sample per sample without using CMSIS-DSP routines
 Biquad.cpp is a parametric EQ
 The other files name are explicit
------------------------------------------------------------------------
+Check test.cpp to for an example of use.
