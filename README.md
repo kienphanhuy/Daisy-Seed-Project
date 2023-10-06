@@ -30,3 +30,8 @@ For each stages you can set
 * Gain (dB)
 * typeIIR (see above)
 
+-----------------------------------------------------------------------
+Simple EQ folders contains programs to for sample per sample processing
+Biquad.cpp is a parametric EQ
+The other files name are explicit
+-----------------------------------------------------------------------
