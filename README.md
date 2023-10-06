@@ -11,12 +11,12 @@ and uses formulae from Robert Bristow-Johnson Cookbook
 -----------------------------------------------------------------------
 numStages: number of EQ stages
 typeIIR:
-0 lowpass
-1 highpass
-2 lowshelf
-3 highshelf
-4 Parametric EQ (peak)
-5 Notch
+* 0 lowpass
+* 1 highpass
+* 2 lowshelf
+* 3 highshelf
+* 4 Parametric EQ (peak)
+* 5 Notch
     
 For each stages you can set 
 * frequency (Hz)
