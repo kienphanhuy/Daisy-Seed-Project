@@ -1,3 +1,8 @@
+// Code by Kien PHAN HUY
+// pot 1: Highpass filter frequency
+// pot 4: Bass Gain - Peak EQ (100 Hz)
+// pot 5: Mid Gain - Peak EQ (700 Hz)
+// pot 6: Treble Gain - HighShelf EQ (6.5kHz)
 #include "daisy_petal.h"
 #include "daisysp.h"
 #include "terrarium.h"
