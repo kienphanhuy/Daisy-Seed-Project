@@ -8,6 +8,7 @@ arm_biquad_cascade_df1_init_f32
 
 The code is based on Alexander Petrov-Savchenko original fir filter code
 and uses formulae from Robert Bristow-Johnson Cookbook
+https://webaudio.github.io/Audio-EQ-Cookbook/audio-eq-cookbook.html
 -----------------------------------------------------------------------
 numStages: number of EQ stages
 typeIIR:
